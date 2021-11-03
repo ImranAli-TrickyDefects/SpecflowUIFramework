@@ -1,0 +1,39 @@
+D:\Specflow_BDD_UI_Test_Automation_Framwork\Selenium\bin\Debug\netcoreapp2.1\testhost.exe
+D:\Specflow_BDD_UI_Test_Automation_Framwork\Selenium\bin\Debug\netcoreapp2.1\testhost.dll
+D:\Specflow_BDD_UI_Test_Automation_Framwork\Selenium\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Specflow_BDD_UI_Test_Automation_Framwork\Selenium\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\Specflow_BDD_UI_Test_Automation_Framwork\Selenium\bin\Debug\netcoreapp2.1\nunit.engine.dll
+D:\Specflow_BDD_UI_Test_Automation_Framwork\Selenium\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+D:\Specflow_BDD_UI_Test_Automation_Framwork\Selenium\bin\Debug\netcoreapp2.1\nunit.engine.core.dll
+D:\Specflow_BDD_UI_Test_Automation_Framwork\Selenium\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Specflow_BDD_UI_Test_Automation_Framwork\Selenium\bin\Debug\netcoreapp2.1\Selenium.deps.json
+D:\Specflow_BDD_UI_Test_Automation_Framwork\Selenium\bin\Debug\netcoreapp2.1\Selenium.runtimeconfig.json
+D:\Specflow_BDD_UI_Test_Automation_Framwork\Selenium\bin\Debug\netcoreapp2.1\Selenium.runtimeconfig.dev.json
+D:\Specflow_BDD_UI_Test_Automation_Framwork\Selenium\bin\Debug\netcoreapp2.1\Selenium.dll
+D:\Specflow_BDD_UI_Test_Automation_Framwork\Selenium\bin\Debug\netcoreapp2.1\Selenium.pdb
+D:\Specflow_BDD_UI_Test_Automation_Framwork\Selenium\obj\Debug\netcoreapp2.1\Selenium.csprojAssemblyReference.cache
+D:\Specflow_BDD_UI_Test_Automation_Framwork\Selenium\obj\Debug\netcoreapp2.1\Selenium.csproj.CoreCompileInputs.cache
+D:\Specflow_BDD_UI_Test_Automation_Framwork\Selenium\obj\Debug\netcoreapp2.1\Selenium.AssemblyInfoInputs.cache
+D:\Specflow_BDD_UI_Test_Automation_Framwork\Selenium\obj\Debug\netcoreapp2.1\Selenium.AssemblyInfo.cs
+D:\Specflow_BDD_UI_Test_Automation_Framwork\Selenium\obj\Debug\netcoreapp2.1\Selenium.dll
+D:\Specflow_BDD_UI_Test_Automation_Framwork\Selenium\obj\Debug\netcoreapp2.1\Selenium.pdb
+C:\BEIS UI Test Automation Framework\Selenium\bin\Debug\netcoreapp2.1\testhost.exe
+C:\BEIS UI Test Automation Framework\Selenium\bin\Debug\netcoreapp2.1\testhost.dll
+C:\BEIS UI Test Automation Framework\Selenium\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\BEIS UI Test Automation Framework\Selenium\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\BEIS UI Test Automation Framework\Selenium\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\BEIS UI Test Automation Framework\Selenium\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\BEIS UI Test Automation Framework\Selenium\bin\Debug\netcoreapp2.1\nunit.engine.core.dll
+C:\BEIS UI Test Automation Framework\Selenium\bin\Debug\netcoreapp2.1\appsettings.json
+C:\BEIS UI Test Automation Framework\Selenium\bin\Debug\netcoreapp2.1\Selenium.deps.json
+C:\BEIS UI Test Automation Framework\Selenium\bin\Debug\netcoreapp2.1\Selenium.runtimeconfig.json
+C:\BEIS UI Test Automation Framework\Selenium\bin\Debug\netcoreapp2.1\Selenium.runtimeconfig.dev.json
+C:\BEIS UI Test Automation Framework\Selenium\bin\Debug\netcoreapp2.1\Selenium.dll
+C:\BEIS UI Test Automation Framework\Selenium\bin\Debug\netcoreapp2.1\Selenium.pdb
+C:\BEIS UI Test Automation Framework\Selenium\obj\Debug\netcoreapp2.1\Selenium.csprojAssemblyReference.cache
+C:\BEIS UI Test Automation Framework\Selenium\obj\Debug\netcoreapp2.1\Selenium.AssemblyInfoInputs.cache
+C:\BEIS UI Test Automation Framework\Selenium\obj\Debug\netcoreapp2.1\Selenium.AssemblyInfo.cs
+C:\BEIS UI Test Automation Framework\Selenium\obj\Debug\netcoreapp2.1\Selenium.csproj.CoreCompileInputs.cache
+C:\BEIS UI Test Automation Framework\Selenium\obj\Debug\netcoreapp2.1\Selenium.dll
+C:\BEIS UI Test Automation Framework\Selenium\obj\Debug\netcoreapp2.1\Selenium.pdb
+C:\BEIS UI Test Automation Framework\Selenium\obj\Debug\netcoreapp2.1\Selenium.genruntimeconfig.cache
